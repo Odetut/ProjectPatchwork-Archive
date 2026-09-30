@@ -1,2 +1,4 @@
 # ProjectPatchwork-Archive
-Uploading OldWork
+Uploading Old Work
+
+#This project will not work without making the required .env#
